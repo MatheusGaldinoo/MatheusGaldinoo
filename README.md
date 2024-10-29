@@ -21,11 +21,11 @@
 [Lattes - Matheus Galdino de Souza](http://lattes.cnpq.br/7111903964018538)
 
 <div align="center"> 
-  <h2 align="center">Tecnologias com experiência</h2>
+  <h3 align="center">Tecnologias com experiência</h3>
   <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg">
   <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" height="30" width="40" alt="clojure-icon" src="https://logo.wine/a/logo/Clojure/Clojure-Logo.wine.svg">
-  <img align="center" height="30" width="40" alt="nuvem-render-icon" src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" style="border-radius: 30px;">
+  <img align="center" height="30" width="40" alt="nuvem-render-icon" src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" style="border-radius: 50px;">
   <img align="center" height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 </div>
 

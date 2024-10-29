@@ -29,7 +29,7 @@
   <img align="center" height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 </div>
 
-<hr style="border: 1px solid #ccc; width: 70%; margin: 10px auto;">
+<hr style="border: 10px solid #ccc; width: 70%; margin: 10px auto;">
 
 <div align="center"> 
   <h3 align="center">Fique à vontade para explorar meus projetos e entrar em contato!</h3>

@@ -24,12 +24,13 @@
   <h2 align="center">Tecnologias com experiência</h2>
   <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg">
   <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" height="30" width="40" alt="clojure-icon" src="https://logo.wine/a/logo/Clojure/Clojure-Logo.wine.svg">
+  <img align="center" height="30" width="40" alt="nuvem-render-icon" src="https://link-para-o-svg-nuvem-render.svg">
   <img align="center" height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+  <img align="center" height="30" width="40" alt="clojure-icon" src="https://logo.wine/a/logo/Clojure/Clojure-Logo.wine.svg">
 </div>
 
 <div align="center"> 
-  <h3 align="center">📞 Fique à vontade para explorar meus projetos e entrar em contato!</h3>
+  <h3 align="center">Fique à vontade para explorar meus projetos e entrar em contato!</h3>
 <a target="_blank" href="mailto:matheus.galdino.souza@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://wa.me/5583991623789"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
 <a target="_blank" href="https://discord.com/users/matheus.galdino"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>

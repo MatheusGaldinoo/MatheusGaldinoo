@@ -20,6 +20,8 @@
 🚀 **Conheça meu currículo completo:**  
 [Lattes - Matheus Galdino de Souza](http://lattes.cnpq.br/7111903964018538)
 
+<hr style="border: 10px solid #ccc; width: 70%; margin: 10px auto;">
+
 <div align="center"> 
   <h3 align="center">Tecnologias com experiência</h3>
   <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg">

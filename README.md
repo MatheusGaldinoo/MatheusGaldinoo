@@ -26,7 +26,7 @@
   <h3 align="center">Tecnologias com experiência</h3>
   <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg">
   <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" height="30" width="40" alt="clojure-icon" src="https://logo.wine/a/logo/Clojure/Clojure-Logo.wine.svg">
+  <img align="center" height="30" width="40" alt="clojure-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg">
   <img align="center" height="30" width="40" alt="nuvem-render-icon" src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4">
   <img align="center" height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 </div>

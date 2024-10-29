@@ -23,3 +23,24 @@ Bem-vindo ao meu portifólio, aqui você irá conhecer alguns dos meus projetos 
 - [Telefone](tel:+55839991623789)
 - [E-mail](mailto:matheus.galdino.souza@ccc.ufcg.edu.br)
 - [@matheus.galdinoo](https://www.instagram.com/matheus.galdinoo)
+
+<div align="center">
+  <a href="https://github.com/MatheusGaldinoo">
+    <img align="center" src="https://media.tenor.com/BrNtIejIcXUAAAAC/pixel-art.gif" width="600">
+  </a>
+</div>
+<br>
+
+<div align="center"> 
+  <h1 align="center">Principais Tecnologias</h1>
+  <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg">
+  <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+</div>
+
+<br>
+<a target="_blank" href="mailto:matheus.galdino.souza@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://discord.com/users/matheus.galdino"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+<a target="_blank" href="https://www.instagram.com/matheus.galdinoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+<br>
+</p>       
+</div>

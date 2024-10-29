@@ -24,20 +24,20 @@
 
 <div align="center"> 
   <h3 align="center">Tecnologias com experiência</h3>
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Clojure](https://img.shields.io/badge/Clojure-3F2B83?style=for-the-badge&logo=clojure&logoColor=white)
-  ![Nuvem Render](https://img.shields.io/badge/Nuvem%20Render-00BFFF?style=for-the-badge&logo=cloud&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg">
+  <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img align="center" height="30" width="40" alt="clojure-icon" src="https://logo.wine/a/logo/Clojure/Clojure-Logo.wine.svg">
+  <img align="center" height="30" width="40" alt="nuvem-render-icon" src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4">
+  <img align="center" height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 </div>
 
 <hr style="border: 10px solid #ccc; width: 70%; margin: 10px auto;">
 
 <div align="center"> 
   <h3 align="center">Fique à vontade para explorar meus projetos e entrar em contato!</h3>
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.galdino.souza@ccc.ufcg.edu.br)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583991623789)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/matheus.galdino)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus.galdinoo/)
+  <a target="_blank" href="mailto:matheus.galdino.souza@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+  <a target="_blank" href="https://wa.me/5583991623789"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
+  <a target="_blank" href="https://discord.com/users/matheus.galdino"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+  <a target="_blank" href="https://www.instagram.com/matheus.galdinoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </div>
 

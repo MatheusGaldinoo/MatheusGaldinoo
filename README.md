@@ -2,7 +2,7 @@
 
 💻 Welcome to my portfolio! Here, you can explore my public projects and get to know my journey. I'm fascinated by how technology can help solve problems.
 
-📜 Areas of Interest: Software Engineering, Task Automation, OOP
+📜 Areas of Interest: Software Engineering and Task Automation
 
 🧠 Education: Bachelor's in Computer Science at UFCG (in progress)
 

@@ -2,11 +2,11 @@
 
 💻 Welcome to my portfolio! Here, you can explore my public projects and get to know my journey. I'm fascinated by how technology can help solve problems.
 
-📜 Areas of Interest: Software Engineering and Task Automation
+📜 Areas of Interest: Task Automation and Machine Learning
 
-🧠 Education: Bachelor's in Computer Science at UFCG (in progress)
+🎓 Education: Bachelor's in Computer Science at UFCG (in progress)
 
-🎓 Current Position: Inclusive Academic Monitor at UFCG
+🧠 Current Position: Researcher and Developer (PD&I Student) at VIRTUS
 
 🏅 Academic Achievements:
 
@@ -25,12 +25,13 @@
 
 <div align="center"> 
   <h3 align="center">Technologies I'm experienced with</h3>
-  <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg">
-  <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" height="30" width="40" alt="clojure-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg">
-  <img align="center" height="30" width="40" alt="nuvem-render-icon" src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4">
-  <img align="center" height="30" width="40" alt="linux-icon" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg">
-  <img align="center" height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+   
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,java,clojure,haskell,mysql,postgres,git"/>
+      <img height="48" width="48" alt="Render icon" src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" />
+    </a>
+  </p>
 </div>
 
 <hr style="border: 10px solid #ccc; width: 70%; margin: 10px auto;">
